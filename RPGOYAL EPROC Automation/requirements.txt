@@ -1,0 +1,9 @@
+# RPGOYAL eProcurement Tool — dependencies
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+reportlab>=4.0.0
+customtkinter>=5.2.0
+pyinstaller>=6.0.0
